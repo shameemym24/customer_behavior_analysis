@@ -224,6 +224,7 @@ Hey, I'm Shameem Yousuf -- Data Analyst skilled in SQL, Python, Power BI, and Ex
 📧 [shameem.yousuf47@gmail.com](mailto:shameem.yousuf47@gmail.com)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/shameem90)
+
 ---
 
 ⭐ *“Turning data into insights, and insights into action.”*
