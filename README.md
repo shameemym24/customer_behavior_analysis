@@ -216,13 +216,14 @@ jupyter notebook Customer_Shopping_Behavior_Analysis.ipynb
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 About the Author
+Hey, I'm Shameem Yousuf -- Data Analyst skilled in SQL, Python, Power BI, and Excel with hands-on experience in data cleaning, visualization, and reporting.
 
-**Shameem Yousuf**
 📍 Dubai, UAE
-📧 [shameem.yousuf47@gmail.com](mailto:shameem.yousuf47@gmail.com)
-🔗 [LinkedIn](http://www.linkedin.com/in/shameem90)
 
+📧 [shameem.yousuf47@gmail.com](mailto:shameem.yousuf47@gmail.com)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/shameem90)
 ---
 
 ⭐ *“Turning data into insights, and insights into action.”*
